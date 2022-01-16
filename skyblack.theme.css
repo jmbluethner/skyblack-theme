@@ -1,4 +1,14 @@
+/**
+ * @name Skyblack Theme
+ * @author jmbluethner
+ * @version 1.0.0
+ * @description A nice and clean Theme for Discord
+ * @source https://github.com/jmbluethner/skyblack-theme
+ * @website https://jmbluethner.de
+*/
+
 /* https://betterdiscord.app/theme/Horizontal%20Server%20List */
 @import url("https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css");
+
 
 @import url("https://github.com/jmbluethner/skyblack-theme/src/skyblack.theme.css");
